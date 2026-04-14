@@ -9,7 +9,7 @@ Users of our mobile applications can visit the live page to request the deletion
 
 ## Live Link
 The page is hosted via GitHub Pages at:
-[https://jptechntr.github.io/data-deletion-request/](https://jptechntr.github.io/data-deletion-request/)
+[https://jptechntr.github.io/data-deletion-request/] (https://jptechntr.github.io/data-delete-requests/)
 
 ## Technical Details
 - **Framework:** Simple HTML/CSS
